@@ -24,24 +24,25 @@ Beberapa proyek yang pernah saya kerjakan dan saya banggakan:
 - **Bot Telegram** untuk membantu dan menyediakan informasi secara otomatis
 - **Add-on Minecraft Bedrock Edition** yang memanfaatkan AI Groq untuk memberikan respon berbasis teks di game
 - **Proyek Arduino** untuk simulasi robot dan perangkat cerdas
+- dan banyak lagi
 
 ---
 
 ## 💫 Hubungi Saya
 Jika kamu tertarik untuk berdiskusi atau berkolaborasi, jangan ragu untuk menghubungi saya!
 
-[![GitHub Followers](https://img.shields.io/github/followers/DaffaAdityaPratama?style=social)](https://github.com/DaffaAdityaPratama)
-[![Email](https://img.shields.io/badge/Email-daafadityp@gmail.com-red)](mailto:daafadityp@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/daffa-aditya-p?style=social)](https://github.com/daffa-aditya-p)
+[![Email](https://img.shields.io/badge/Email-daffaadityap@proton.me-red)](mailto: daffaadityap@proton.me)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaffaAdityaPratama&show_icons=true&theme=tokyonight&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaAdityaPratama&layout=compact&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daffa-aditya-p&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffa-aditya-p&layout=compact&theme=tokyonight" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaffaAdityaPratama&theme=tokyonight" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daffa-aditya-p&theme=tokyonight" width="400" />
 </p>
 
 ---

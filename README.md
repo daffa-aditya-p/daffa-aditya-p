@@ -6,7 +6,7 @@
 - Nama lengkap: **Daffa Aditya Pratama**
 - Tempat lahir: **Jakarta**
 - Sekolah: **SMPN 109 Jakarta**
-- Minat: Pemrograman, teknologi, dan eksperimen dengan proyek-proyek kreatif!
+- Minat: Pemrograman, teknologi,AI, dan eksperimen dengan proyek-proyek kreatif!
 
 ---
 
@@ -14,11 +14,17 @@
 Saya terus belajar dan mengeksplorasi keterampilan baru di bidang teknologi, khususnya dalam pengembangan bot dan pembuatan aplikasi interaktif. Selain itu, saya juga tertarik dengan:
 - 💻 Pengembangan Bot dan Automasi
 - 🌐 Web Development
-- 🤖 Pemrograman Robotika
+- 🤖 Pemrograman Robotika berbasis robotik 
 - 📱 Eksperimen dengan aplikasi berbasis mobile
+- 💻 Membuat Model AI NLP, NEURAL NETWORK,machine learning sederhana
 
 ---
 
+## 🏆Prestasi & pencapaian 
+- Juara 3 Lomba Robotik Tingkat nasional (OTN 2023) Menyabet juara 3 best strategi
+- membuat website resmi ospk47 bertajuk ospk47.my.id
+- Membuat Model bahasa besar(LLM) Menggunakan 100% numpy dan memakai teknik K means, NLP, NEURAL NETWORK,dst..
+- memahami konsep dasar bahasa Pemeroggraman di masa dini
 ## 🚀 Proyek Saya
 Beberapa proyek yang pernah saya kerjakan dan saya banggakan:
 - **Bot Telegram** untuk membantu dan menyediakan informasi secara otomatis

@@ -1,4 +1,4 @@
-# Daffa Aditya Putra
+# Daffa Aditya Pratama
 
 <div align="center">
 
@@ -23,14 +23,14 @@
 
 ## 👋 Tentang Saya
 
-Halo! Saya **Daffa Aditya Putra**, siswa SMP yang passionate dengan dunia pemrograman dan teknologi. Saya percaya bahwa umur bukan penghalang untuk berkarya dan berkontribusi dalam dunia teknologi Indonesia.
+Halo! Saya **Daffa Aditya Pratama**, siswa SMK Negeri 26 jakarta a yang passionate dengan dunia pemrograman dan teknologi. Saya percaya bahwa umur bukan penghalang untuk berkarya dan berkontribusi dalam dunia teknologi Indonesia.
 
 ```javascript
 const daffa = {
-    nama: "Daffa Aditya Putra",
-    umur: 14,
+    nama: "Daffa Aditya Pratama",
+    umur: 16,
     lokasi: "Jakarta, Indonesia 🇮🇩",
-    status: "Siswa SMP",
+    status: "Siswa SMK NEGERI 26 JAKARTA",
     passion: ["Programming", "Web Development", "Robotika", "AI"],
     moto: "Belajar, Berkarya, dan Berbagi untuk Indonesia"
 };
@@ -187,7 +187,7 @@ class SimpleNLP:
 
 ---
 
-## 📈 Kontribusi 2024
+## 📈 Kontribusi Saya
 
 <div align="center">
 
@@ -205,7 +205,6 @@ Saya selalu terbuka untuk:
 
 ### 📫 Hubungi Saya:
 - **Email:** daffaadityap@proton.me
-- **Response time:** < 24 jam untuk inquiry serius
 
 ---
 
@@ -213,13 +212,10 @@ Saya selalu terbuka untuk:
 
 **"Umur hanya angka ketika semangat bertemu dengan dedikasi"**  
 *Membangun masa depan teknologi Indonesia, satu baris kode dalam satu waktu.*
-
-![Snake Animation](https://raw.githubusercontent.com/daffa-aditya-p/daffa-aditya-p/output/github-contribution-grid-snake-dark.svg)
-
 <sub>🔄 README ini diperbarui secara otomatis setiap hari!</sub>
 
 ---
 
-⭐ **Jika repository saya bermanfaat, jangan lupa berikan star!** ⭐
+⭐ **Jika repository saya bermanfaat, jangan lupa berikan star! ya** ⭐
 
 </div>

@@ -1,4 +1,4 @@
-# 👋 Halo, Selamat Datang di Profil GitHub Daffa Aditya Pratama!!
+# 👋 Halo, Selamat Datang di Profil GitHub Daffa Aditya Pratama!
 
 ---
 

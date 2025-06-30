@@ -163,9 +163,6 @@ class SimpleNLP:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daffa-aditya-p&theme=tokyonight&hide_border=true&background=0D1117)
 
-![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=daffa-aditya-p&theme=tokyonight)
-</div>
-
 ---
 
 ## 🎯 Yang Sedang Saya Kerjakan
@@ -192,14 +189,11 @@ class SimpleNLP:
 
 ## 📈 Kontribusi 2024
 
-```
-📝 Commit this year     ████████████ 420+
-🔧 Projects completed   ████████████ 12
-🤝 Collaborations       ████████████ 8
-📚 Repositories         ████████████ 25+
-```
+<div align="center">
 
----
+![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=daffa-aditya-p&theme=tokyonight)
+
+</div>
 
 ## 🤝 Mari Berkolaborasi!
 

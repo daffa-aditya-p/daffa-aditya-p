@@ -4,7 +4,7 @@
 
 <!-- Hero Section -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=64FFDA&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Siswa+SMP+%7C+Programmer+Indonesia;Menciptakan+Solusi+Digital+Inovatif;Jakarta+%E2%86%92+Dunia">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=64FFDA&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Siswa+SMK+%7C+Programmer+Indonesia;Menciptakan+Solusi+Digital+Inovatif;Jakarta+%E2%86%92+Dunia">
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Siswa+SMP+%7C+Programmer+Indonesia;Menciptakan+Solusi+Digital+Inovatif;Jakarta+%E2%86%92+Dunia" />
 </picture>
 

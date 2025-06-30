@@ -157,7 +157,7 @@ class SimpleNLP:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daffa-aditya-p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9&icon_color=64FFDA&include_all_commits=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=daffa-aditya-p&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64FFDA&line=64FFDA&point=C9D1D9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daffa-aditya-p&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9)
 

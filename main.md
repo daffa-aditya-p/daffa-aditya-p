@@ -163,6 +163,7 @@ class SimpleNLP:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daffa-aditya-p&theme=tokyonight&hide_border=true&background=0D1117)
 
+![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=daffa-aditya-p&theme=tokyonight)
 </div>
 
 ---

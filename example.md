@@ -257,7 +257,7 @@ Pull Requests Merged     ████████████ 345
 [![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://credly.com/users/daffa-aditya)
 [![Google Cloud](https://img.shields.io/badge/GCP-Professional%20Developer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/certification)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-Developer%20Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/certificate)
-
+[![Microsoft](https://img.shields.io/badge/Microsoft-AI%20Certificate-FF6F00?style=for-the-badge&logo=microsoftt&logoColor=white)](https://learn.microsoft.com/certificate)
 ### 🎤 Speaking & Mentoring
 - **Jakarta Tech Meetup** - "AI Development for Teenagers" (500+ attendees)
 - **Indonesia Developer Summit** - "Building Your First LLM" (Workshop)

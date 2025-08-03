@@ -192,7 +192,7 @@ class SimpleNLP:
 <div align="center">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=daffa-aditya-p&show_icons=true&locale=en" alt="daffa-aditya-p" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=daffa-aditya-p&show_icons=true&locale=en&layout=compact" alt="daffa-aditya-p" /></p>
+![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=daffa-aditya-p&theme=tokyonight)
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daffa-aditya-p" alt="daffa-aditya-p" /></a></p>
 
 </div>

@@ -10,7 +10,7 @@
 
 <br />
 
-**`Mengubah ide menjadi kode yang bermakna`**
+**`Mengubah ide menjadi kode yang bermanfaatt`**
 
 [![Email](https://img.shields.io/badge/Email-daffaadityap%40proton.me-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:daffaadityap@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-daffa--aditya--p-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daffa-aditya-p)
@@ -23,7 +23,7 @@
 
 ## 👋 Tentang Saya
 
-Halo! Saya **Daffa Aditya Pratama**, siswa SMK Negeri 26 jakarta a yang passionate dengan dunia pemrograman dan teknologi. Saya percaya bahwa umur bukan penghalang untuk berkarya dan berkontribusi dalam dunia teknologi Indonesia.
+Halo! Saya **Daffa Aditya Pratama**, siswa SMK Negeri 26 jakarta yang passionate dengan dunia pemrograman dan teknologi. Saya percaya bahwa umur bukan penghalang untuk berkarya dan berkontribusi dalam dunia teknologi Indonesia.
 
 ```javascript
 const daffa = {
@@ -59,10 +59,26 @@ const daffa = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/Vite_+_React-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 </div>
 
 ---

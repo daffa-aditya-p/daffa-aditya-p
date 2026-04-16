@@ -28,11 +28,10 @@ Halo! Saya **Daffa Aditya Pratama**, siswa SMK Negeri 26 jakarta yang passionate
 ```javascript
 const daffa = {
     nama: "Daffa Aditya Pratama",
-    umur: 16,
     lokasi: "Jakarta, Indonesia 🇮🇩",
     status: "Siswa SMK NEGERI 26 JAKARTA",
     passion: ["Programming", "Web Development", "Robotika", "AI"],
-    moto: "Belajar, Berkarya, dan Berbagi untuk Indonesia"
+    moto: "Belajar, Berkarya"
 };
 ```
 
@@ -47,6 +46,7 @@ const daffa = {
 🏆 Peringkat 1 Non Akademik Angkatan 46 SMPN 109 Jakarta
 🥉 Juara 3 Olimpiade TIK Nasional 2024
 🥉 Juara 3 Olimpiade TIK Nasional 2023
+
 ```
 
 </div>
@@ -86,7 +86,7 @@ const daffa = {
 ## 🚀 Proyek Utama
 
 ### 🇮🇩 Bahasa Pemrograman "Bahasa Nusantara"
-**Bahasa pemrograman pertama berbahasa Indonesia dengan ekstensi .nus**
+**Bahasa pemrograman berbahasa Indonesia dengan ekstensi .nus**
 
 - **Teknologi:** Python sebagai base language
 - **Instalasi:** `pip install bahasa-nusantara`
@@ -135,7 +135,7 @@ Platform digital organisasi siswa
 
 ---
 
-### 🤖 AI Natural Language Processing
+###  AI Natural Language Processing
 **Model AI ringan dengan performa tinggi**
 
 - **Framework:** NumPy (tanpa library berat)
@@ -144,7 +144,7 @@ Platform digital organisasi siswa
 - **Hasil:** Model pintar dengan resource minimal
 
 ```python
-# Arsitektur AI sederhana tapi powerful
+# Arsitektur AI sederhana
 class SimpleNLP:
     def __init__(self):
         self.weights = np.random.randn(vocab_size, embedding_dim)
@@ -155,19 +155,6 @@ class SimpleNLP:
             # Training logic dengan NumPy
             pass
 ```
-
----
-
-### ⚡ Proyek Robotika
-**Berbagai robot untuk kompetisi dan pembelajaran**
-
-- **Robot Sumo:** Robot bertarung otomatis
-- **Lampu Lalu Lintas Otomatis:** Sistem traffic light pintar  
-- **Line Follower:** Robot pengikut garis
-- **Sensor Suara:** Robot yang merespons perintah suara
-- **Teknologi:** Arduino, sensor berbagai jenis
-
----
 
 ## 📊 Statistik GitHub
 
@@ -183,12 +170,10 @@ class SimpleNLP:
 
 ## 🎯 Yang Sedang Saya Kerjakan
 
-- 🔭 Mengembangkan fitur baru untuk **Bahasa Nusantara**
-- 🌱 Belajar framework web development terbaru
-- 👯 Mencari kolaborator untuk proyek open source Indonesia
-- 🤔 Riset tentang optimasi AI untuk perangkat mobile
-- ⚡ Mempersiapkan kompetisi robotika tingkat nasional
-
+-  Mengembangkan fitur baru untuk Ekstensi vscode saya **Laravel tutor**
+-  Belajar framework web development terbaru
+-  Mempelajari arsitektur LLM terbaru
+-  mengembangkan model AI Yang efisien
 ---
 
 ## 💭 Filosofi Coding Saya
@@ -213,27 +198,13 @@ class SimpleNLP:
 
 </div>
 
-## 🤝 Mari Berkolaborasi!
-
-Saya selalu terbuka untuk:
-- 💻 **Proyek kolaboratif** dengan sesama developer Indonesia
-- 🎓 **Sharing knowledge** tentang programming dan teknologi
-- 🏆 **Kompetisi coding** dan robotika
-- 🌟 **Kontribusi open source** untuk komunitas
-
-### 📫 Hubungi Saya:
-- **Email:** daffaadityap@proton.me
+### Hubungi Saya:
+- **Email:** daffaaditya@daffadev.my.id
 
 ---
 
 <div align="center">
 
-**"Umur hanya angka ketika semangat bertemu dengan dedikasi"**  
-*Membangun masa depan teknologi Indonesia, satu baris kode dalam satu waktu.*
-<sub>🔄 README ini diperbarui secara otomatis setiap hari!</sub>
-
----
-
-⭐ **Jika repository saya bermanfaat, jangan lupa berikan star! ya** ⭐
+**"be the best with hard work!"**
 
 </div>

@@ -1,16 +1,11 @@
-# Daffa Aditya Pratama
+# Welcome To MY Github
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<!-- Hero Section -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=64FFDA&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Siswa+SMK+%7C+Programmer+Indonesia;Menciptakan+Solusi+Digital+Inovatif; menciptakan+%E2%86%92+inovasi+baru">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Siswa+SMK+%7C+Programmer+Indonesia;Menciptakan+Solusi+Digital+Inovatif;Jakarta+%E2%86%92+Dunia" />
-</picture>
 
 <br />
 
-**`Mengubah ide menjadi kode yang bermanfaatt`**
+**`Coding ideas into reality.`**
 
 [![Email](https://img.shields.io/badge/Email-daffaadityap%40proton.me-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:daffaadityap@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-daffa--aditya--p-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daffa-aditya-p)
@@ -23,37 +18,23 @@
 
 ## 👋 Tentang Saya
 
-Halo! Saya **Daffa Aditya Pratama**, siswa SMK Negeri 26 jakarta yang passionate dengan dunia pemrograman dan teknologi. Saya percaya bahwa umur bukan penghalang untuk berkarya dan berkontribusi dalam dunia teknologi Indonesia.
+Hello! My name is Daffa Aditya Pratama, a student at SMK Negeri 26 Jakarta who is deeply passionate about programming and technology
 
 ```javascript
 const daffa = {
     nama: "Daffa Aditya Pratama",
     lokasi: "Jakarta, Indonesia 🇮🇩",
     status: "Siswa SMK NEGERI 26 JAKARTA",
-    passion: ["Programming", "Web Development", "Robotika", "AI"],
-    moto: "Belajar, Berkarya"
+    passion: ["Programming", "Web Development", "Cyber Security", "AI"],
+    moto: "Building Real Impact"
 };
 ```
 
 ---
 
-## 🏆 Prestasi
 
-<div align="center">
 
-### 🥇 Pencapaian Akademik
-```
-🏆 Peringkat 1 Non Akademik Angkatan 46 SMPN 109 Jakarta
-🥉 Juara 3 Olimpiade TIK Nasional 2024
-🥉 Juara 3 Olimpiade TIK Nasional 2023
-
-```
-
-</div>
-
----
-
-## 🛠️ Teknologi yang Saya Kuasai
+## 🛠️ My TechStack
 
 <div align="center">
 
@@ -83,15 +64,15 @@ const daffa = {
 
 ---
 
-## 🚀 Proyek Utama
+## 🚀 My project
 
-### 🇮🇩 Bahasa Pemrograman "Bahasa Nusantara"
-**Bahasa pemrograman berbahasa Indonesia dengan ekstensi .nus**
+### programming language "Bahasa Nusantara"
+**Bahasa pemrograman (wrapper Python) berbahasa Indonesia dengan ekstensi .nus**
 
-- **Teknologi:** Python sebagai base language
-- **Instalasi:** `pip install bahasa-nusantara`
-- **Inovasi:** Sintaks programming menggunakan bahasa Indonesia
-- **Tujuan:** Memudahkan pembelajaran programming untuk pelajar Indonesia
+- **Technology:** Python sebagai base language
+- **Instalation:** `pip install bahasa-nusantara`
+- **Inovasion:** Sintaks programming menggunakan bahasa Indonesia
+- **Goals:** Memudahkan pembelajaran programming untuk pelajar Indonesia
 
 ```python
 # Contoh sintaks Bahasa Nusantara
@@ -135,28 +116,13 @@ Platform digital organisasi siswa
 
 ---
 
-###  AI Natural Language Processing
+###  Fine Tuning LLM
 **Model AI ringan dengan performa tinggi**
+https://huggingface.co/Daffaadityp/AxonAI-MX4-2.0 
+https://huggingface.co/Daffaadityp/AxonAI-MX4-2.0-GGUF
+https://huggingface.co/Daffaadityp/AxonAI-MX4-2.0-Adapter
 
-- **Framework:** NumPy (tanpa library berat)
-- **Keunggulan:** Kompatibel di semua perangkat
-- **Teknik:** NLP, Neural Networks, Epoch training
-- **Hasil:** Model pintar dengan resource minimal
-
-```python
-# Arsitektur AI sederhana
-class SimpleNLP:
-    def __init__(self):
-        self.weights = np.random.randn(vocab_size, embedding_dim)
-        self.epochs = 100
-    
-    def train(self, data):
-        for epoch in range(self.epochs):
-            # Training logic dengan NumPy
-            pass
-```
-
-## 📊 Statistik GitHub
+https://huggingface.co/Daffaadityp/AXONAI-7B-VERTEX
 
 <div align="center">
 
@@ -168,27 +134,8 @@ class SimpleNLP:
 
 ---
 
-## 🎯 Yang Sedang Saya Kerjakan
 
--  Mengembangkan fitur baru untuk Ekstensi vscode saya **Laravel tutor**
--  Belajar framework web development terbaru
--  Mempelajari arsitektur LLM terbaru
--  mengembangkan model AI Yang efisien
----
-
-## 💭 Filosofi Coding Saya
-
-> *"Kode yang baik bukan hanya yang berfungsi, tapi yang dapat dipahami dan bermanfaat untuk orang lain."*
-
-**Prinsip yang saya pegang:**
-- 🎯 **Sederhana tapi Powerful** - Solusi elegant untuk masalah kompleks
-- 🇮🇩 **Made in Indonesia** - Bangga menggunakan dan mengembangkan teknologi lokal
-- 🤝 **Kolaboratif** - Berbagi ilmu dan belajar bersama komunitas
-- 🚀 **Inovatif** - Selalu mencari cara baru yang lebih baik
-
----
-
-## 📈 Kontribusi Saya
+## My Github Contribution
 
 <div align="center">
 

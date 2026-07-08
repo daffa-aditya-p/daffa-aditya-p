@@ -1,4 +1,4 @@
-# Welcome To MY Github
+# Welcome To My Github
 
 <!-- <div align="center"> -->
 
@@ -16,14 +16,14 @@
 
 ---
 
-## 👋 Tentang Saya
+## About me
 
 Hello! My name is Daffa Aditya Pratama, a student at SMK Negeri 26 Jakarta who is deeply passionate about programming and technology
 
 ```javascript
 const daffa = {
     nama: "Daffa Aditya Pratama",
-    lokasi: "Jakarta, Indonesia 🇮🇩",
+    lokasi: "Jakarta, Indonesia",
     status: "Siswa SMK NEGERI 26 JAKARTA",
     passion: ["Programming", "Web Development", "Cyber Security", "AI"],
     moto: "Building Real Impact"
@@ -34,7 +34,7 @@ const daffa = {
 
 
 
-## 🛠️ My TechStack
+## My TechStack
 
 <div align="center">
 
@@ -64,18 +64,18 @@ const daffa = {
 
 ---
 
-## 🚀 My project
+## My project
 
 ### programming language "Bahasa Nusantara"
-**Bahasa pemrograman (wrapper Python) berbahasa Indonesia dengan ekstensi .nus**
+**Programming Language (wrapper Python) Indonesian language with extension .nus**
 
-- **Technology:** Python sebagai base language
+- **Technology:** Python for base language
 - **Instalation:** `pip install bahasa-nusantara`
 - **Inovasion:** Sintaks programming menggunakan bahasa Indonesia
-- **Goals:** Memudahkan pembelajaran programming untuk pelajar Indonesia
+- **Goals:** Making programming learning easier for Indonesian students
 
 ```python
-# Contoh sintaks Bahasa Nusantara
+# Examples of Nusantara language syntax
 tulis("Halo Dunia!")
 jika umur >= 17:
     tulis("Sudah dewasa")
@@ -85,25 +85,25 @@ selain_itu:
 
 ---
 
-### 🌐 Website Event Sekolah
+### School Event Website
 
 <table>
 <tr>
 <td width="50%">
 
 #### **Ligazone 2 & 3**
-Website resmi event tahunan SMPN 109 Jakarta
+Official website of SMPN 109 Jakarta's annual event
 
 - **Ligazone 2:** [ligazone109.wordpress.com](http://ligazone109.wordpress.com)
 - **Ligazone 3:** [ligazone.ospk47.my.id](http://ligazone.ospk47.my.id)
-- **Peran:** Full-stack developer
-- **Kolaborasi:** OSIS dan MPK SMPN 109
+- **Role:** Full-stack developer
+- **Collaboration:** OSIS dan MPK SMPN 109
 
 </td>
 <td width="50%">
 
 #### **Website OSIS MPK**
-Platform digital organisasi siswa
+Student organization digital platform
 
 - **Link:** [ospk47.my.id](http://ospk47.my.id)
 - **Fitur:** Informasi kegiatan, galeri, kontak
@@ -117,7 +117,7 @@ Platform digital organisasi siswa
 ---
 
 ###  Fine Tuning LLM
-**Model AI ringan dengan performa tinggi**
+**Lightweight AI model with high performance**
 https://huggingface.co/Daffaadityp/AxonAI-MX4-2.0 
 https://huggingface.co/Daffaadityp/AxonAI-MX4-2.0-GGUF
 https://huggingface.co/Daffaadityp/AxonAI-MX4-2.0-Adapter
@@ -145,8 +145,10 @@ https://huggingface.co/Daffaadityp/AXONAI-7B-VERTEX
 
 </div>
 
-### Hubungi Saya:
+### Contact me:
 - **Email:** daffaaditya@daffadev.my.id
+- or
+- **Email:** daffaadityp@proton.me
 
 ---
 
